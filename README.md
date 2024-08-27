@@ -3,7 +3,7 @@
 <p>
 
 <p align="center">
-📑 <a href="https://arxiv.org/abs/2408.11189">Paper</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href="">Blog</a>
+📑 <a href="https://arxiv.org/abs/2408.11189" target="_blank">Paper</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://symbl.ai/developers/blog/reading-with-intent-equipping-llms-to-understand-sarcasm-in-multimodal-rag-systems/" target="_blank">Blog</a>
 </p>
 
 We introduce the Reading with Intent task and prompting method and accompanying datasets. 
