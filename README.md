@@ -10,10 +10,15 @@ We introduce the Reading with Intent task and prompting method and accompanying 
 
 The goal of this task is to have LLMs read beyond the surface level of text and integrate an understanding of the underlying sentiment of a text when reading it. The focus of this work is on sarcastic text.
 
-We've released:
+We have released:
 * The code used creating the sarcastic datasets
 * The sarcasm-poisoned dataset
 * The reading with intent prompting method
+
+<p>
+  <span style="color: red;"><b>Note</b>:</span> 
+  Due to dataset sizes, we strongly recommend using the <a href="https://huggingface.co/datasets/Symblai/reading-with-intent" target="_blank" style="text-decoration: none;">Huggingface repository</a> for data download.
+</p>
 
 ## Citation
 
